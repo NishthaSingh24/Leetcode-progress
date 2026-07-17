@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 ## Array
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
