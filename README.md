@@ -37,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
