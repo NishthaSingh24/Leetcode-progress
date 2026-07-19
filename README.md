@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
