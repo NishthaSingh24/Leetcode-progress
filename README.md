@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0069-sqrtx) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0101-symmetric-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
