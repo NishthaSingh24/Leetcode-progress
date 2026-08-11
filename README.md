@@ -111,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0119-pascals-triangle-ii) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
