@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [3731-find-missing-elements](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
