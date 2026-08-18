@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
