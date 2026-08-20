@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
 |  |
 | ------- |
