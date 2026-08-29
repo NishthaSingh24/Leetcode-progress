@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
