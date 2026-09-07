@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
+| [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
@@ -160,4 +161,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
