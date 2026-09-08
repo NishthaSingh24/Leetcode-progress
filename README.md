@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
