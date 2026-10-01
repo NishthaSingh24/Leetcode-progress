@@ -182,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
