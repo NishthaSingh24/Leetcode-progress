@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
+| [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0119-pascals-triangle-ii) |
+| [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 ## Database
 |  |
 | ------- |
@@ -189,8 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
