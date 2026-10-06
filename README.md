@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
@@ -204,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
