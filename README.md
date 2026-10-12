@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3870-count-commas-in-range) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
 |  |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
