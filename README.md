@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0258-add-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
