@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0492-construct-the-rectangle) |
+| [2409-count-days-spent-together](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3870-count-commas-in-range) |
