@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0392-is-subsequence) |
+| [0482-license-key-formatting](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0482-license-key-formatting) |
 | [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
