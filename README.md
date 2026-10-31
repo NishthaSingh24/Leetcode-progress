@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3665-twisted-mirror-path-count](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0678-valid-parenthesis-string) |
+| [3665-twisted-mirror-path-count](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3665-twisted-mirror-path-count) |
 ## Database
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0563-binary-tree-tilt) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
