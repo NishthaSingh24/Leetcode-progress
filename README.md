@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3731-find-missing-elements) |
@@ -98,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
