@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
