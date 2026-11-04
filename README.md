@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0389-find-the-difference) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0392-is-subsequence) |
 ## Stack
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/3665-twisted-mirror-path-count) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/NishthaSingh24/Leetcode-progress/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
